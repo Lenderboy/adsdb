@@ -16,6 +16,6 @@ setup(name='adsdb',
       description='pure Python Advantage database interface',
       author='Peter Funk',
       author_email='peter.funk@sybase.com',
-      url='http://code.google.com/p/adsdb',
+      url='https://code.google.com/p/adsdb',
       py_modules=['adsdb'],
      )
